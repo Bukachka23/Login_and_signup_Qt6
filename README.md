@@ -29,3 +29,5 @@ pip install secure-smtplib
 python main.py
 2. Register a new user or log in with an existing user.
 3. Use the "Forgot Password" feature to reset your password via email.
+
+![Demo GIF](dv.gif)
