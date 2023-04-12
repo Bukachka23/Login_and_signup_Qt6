@@ -1,3 +1,6 @@
+- ![Demo GIF](vd.gif)
+
+
 # PyQt6 User Authentication
 
 ### A simple user authentication application built using PyQt6. This project demonstrates the implementation of user registration, login, password reset via email, and secure storage of user credentials using SQLite.
@@ -30,4 +33,4 @@ python main.py
 2. Register a new user or log in with an existing user.
 3. Use the "Forgot Password" feature to reset your password via email.
 
-![Demo GIF](vd.gif)
+
