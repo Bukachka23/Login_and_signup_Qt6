@@ -1,4 +1,4 @@
-- ![Demo GIF](vd.gif)
+
 
 
 # PyQt6 User Authentication
@@ -33,4 +33,5 @@ python main.py
 2. Register a new user or log in with an existing user.
 3. Use the "Forgot Password" feature to reset your password via email.
 
-
+ 
+![Demo GIF](vd.gif)
